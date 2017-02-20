@@ -11,6 +11,11 @@
 # headcount may be difficult to obtain, but more localized information may be
 # available.
 
+[ciscomeraki]
+	company: Cisco Meraki
+	num_female_eng: 14
+	num_eng: 144
+	last_updated: 2017-02-20
 [classpass]
 	company: ClassPass
 	num_female_eng: 4
